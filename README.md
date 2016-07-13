@@ -59,3 +59,12 @@ ama programação, possui lógica acima da média e conhece canais de programaç
 ```
 tem boas noções de design, interessa-se por user interfaces, user experience e possui algum conhecimento acima da média de CSS. Já fez algo legal com isso. Conhece flexbox module.
 ```
+
+### 1.3. Anúncio da Vaga
+A vaga deve ser anunciada no facebook, linkedIn e faculdades locais por meio de cartazes e email a coordenadores de curso de tecnologia. Em suma, o anúncio deve:  
+- Informar que o PE visa ```formar desenvolvedores fullstack```    
+- Citar como benefícios ```participação em projetos reais```, ```mentoria``` e ```dia a dia com pair programmings, code reviews e retrospectivas```  
+- Ter uma linguagem legal e convidativa. Por exemplo, remeter a ```Star Wars``` e usar o termo ```fullstack padawans```  
+- Informar prazo de duração no formato ```Duração: 6 meses (junho/2016 - dezembro/2016)```.  
+
+ref.: [Anúncio do PE no blog](http://blog.tegra.me/programa-de-estagio-integrado-vagas-abertas/)
