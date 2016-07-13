@@ -8,7 +8,7 @@ Uma das premissas da Tegra é que [antes de soluções, desenvolvemos pessoas](h
 
 ## Licensa
 Esse repo é disponibilizado com a licensa Creative Commons 0. Sinta-se a vontade pra clonar, alterar, utilizar e redistribuir esse conteúdo.  
-Um dos pilares da Tegra é a melhoria contínua. Isso reflete em todos os nossos processos. Caso haja interesse em bater um papo sobre o programa, escreva para ```contato@tegra.me```.
+Um dos pilares da Tegra é a melhoria contínua. Isso reflete em todos os nossos processos. Caso haja interesse em bater um papo sobre o programa, escreva para [contato@tegra.me](mailto:contato@tegra.me)  
 
 ## Conteúdo
 [1. Pré Processo Seletivo](#)  
