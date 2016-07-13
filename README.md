@@ -93,4 +93,35 @@ PS.: Caso queira saber detalhes sobre o programa, veja o anúncio da vaga em nos
 - Os currículos devem ser renomeados para o nome completo do respectivo candidato: ```curriculum vitae fulana da silva -> fulana da silva```.
 
 ### 2.2. Agendamento de Entrevistas
-O agendamento de entrevistas é realizada pela parte administrativa de acordo com a pasta de currículos selecionados. 
+O agendamento de entrevistas é realizada pela parte administrativa de acordo com a pasta de currículos selecionados.
+
+## 3. Processo Seletivo - Entrevistas
+Ambas as fases consistem de um script de perguntas (que devem ser abordadas num bate papo natural e fluido) e de exercícios práticos.
+
+### 3.1. Exercícios Práticos - Fase 1
+A primeira fase possui como exercício prático criar um algoritmo (a fim de testar o potencial lógico) e responder a uma pergunta especulativa (a fim de testar o potencial de abstração e análise) como, por exemplo, 'quantos livros há em Sorocaba?'.
+
+### 3.2. Exercícios Práticos - Fase 2
+A segunda fase possui como exercício prático [implementar a resolução de um problema](https://github.com/tegraoss/TrabalheNaTegra) (a fim de testar o potencial lógico) num prazo de 9 dias.
+
+## 4. Avaliação
+A avaliação de todas as pessoas candidatas deve ser feita sempre pelas mesmas pessoas entrevistadoras. Para tanto, pontua-se cada uma das perguntas do bate-papo, assim como os exercícios práticos de ambas as fases. Além disso, cada uma das pessoas entrevistadoras deve anotar observações, partilhando sua perspectiva sobre a entrevista.  
+
+### Pontuaçoes possíveis  
+- 1: insuficiente ou mínimo  
+- 2: desejável ou bom  
+- 3: muito bom ou excelente   
+
+### 4.1. Critérios Analisados na Primeira Fase
+- potencial lógico  
+- potencial analítico  
+- conhecimento técnico adquirido estudando  
+- carga cultural    
+
+### 4.2. Critérios Analisados na Segunda Fase
+- lógica  
+- legibilidade  
+- tratamento de erros  
+- resolução efetiva do problema  
+- apresentação e explicação do código  
+- opinião crítica sobre assuntos de cunho social  
