@@ -6,6 +6,13 @@ Repo pra partilhar os processos do programa de estágio aqui da Tegra, incluindo
 ## Motivação
 Uma das premissas da Tegra é que [antes de soluções, desenvolvemos pessoas](http://blog.tegra.me/desenvolvendo-pessoas). O PE (Programa de Estágio) é uma das frentes pela qual o fazemos.
 
+## Licensa
+Esse repo é disponibilizado com a licensa Creative Commons 0. Sinta-se a vontade pra clonar, alterar, utilizar e redistribuir esse conteúdo.  
+Um dos pilares da Tegra é a melhoria contínua. Isso reflete em todos os nossos processos. Caso haja interesse em bater um papo sobre o programa, escreva para ```contato@tegra.me```.
+
+## Disclaimer
+Um dos pilares da Tegra é a melhoria contínua. Isso reflete nesse processo.
+
 ## Conteúdo
 [1. Pré Processo Seletivo](#)  
 [2. Processo Seletivo - Currículos](#)  
