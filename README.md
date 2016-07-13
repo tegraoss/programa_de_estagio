@@ -84,3 +84,13 @@ Obrigado pela atenção!
 
 PS.: Caso queira saber detalhes sobre o programa, veja o anúncio da vaga em nosso blog: http://blog.tegra.me/programa-de-estagio-integrado-vagas-abertas/
 ```  
+
+## 2. Processo Seletivo - Currículos  
+
+### 2.1. Seleção de Currículos
+- Os selecionadores devem estar inscritos em ```estagio@tegra.me```
+- Os selecionadores devem acompanhar os currículos enviados e separar os interessantes numa pasta do google drive
+- Os currículos devem ser renomeados para o nome completo do respectivo candidato: ```curriculum vitae fulana da silva -> fulana da silva```.
+
+### 2.2. Agendamento de Entrevistas
+O agendamento de entrevistas é realizada pela parte administrativa de acordo com a pasta de currículos selecionados. 
