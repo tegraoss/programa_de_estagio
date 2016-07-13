@@ -43,15 +43,15 @@ Define-se personas de acordo com o perfil de pessoa esperada a preencher a vaga:
 
 #### Persona 2: Dev Hardcore
 ```
-ama programação, possui lógica acima da média e conhece canais de programação no youtube, acompanha desenvolvedores influentes e lê livros sobre a área.
+ama programação, possui lógica acima da média e conhece canais de   programação no youtube, acompanha desenvolvedores influentes e lê   livros sobre a área.
 ```
 
 #### Persona 3: Centrada
 ```
-é uma pessoa centrada, calma, reservada (mas não tímida), observadora, analítica e destaca-se por sua opinião crítica.
+é uma pessoa centrada, calma, reservada (mas não tímida),   observadora, analítica e destaca-se por sua opinião crítica.
 ```
 
 #### Persona 4: Designer
 ```
-tem boas noções de design, interessa-se por user interfaces, user experience e possui algum conhecimento acima da média de CSS. Já fez algo legal com isso. Conhece flexbox module.
+tem boas noções de design, interessa-se por user interfaces, user   experience e possui algum conhecimento acima da média de CSS. Já   fez algo legal com isso. Conhece flexbox module.
 ```
