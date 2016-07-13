@@ -68,3 +68,19 @@ A vaga deve ser anunciada no facebook, linkedIn e faculdades locais por meio de 
 - Informar prazo de duração no formato ```Duração: 6 meses (junho/2016 - dezembro/2016)```.  
 
 ref.: [Anúncio do PE no blog](http://blog.tegra.me/programa-de-estagio-integrado-vagas-abertas/)
+
+#### 1.3.1. Modelo de Contato com Faculdades
+```subject: Programa de Estágio da Tegra```  
+```
+Olá, <nome>!
+
+A Tegra acaba de abrir vagas pro novo programa de estágio em desenvolvimento web (fullstack).
+
+Há algum horário na próxima semana em que eu possa lhe entregar um cartaz de divulgação e te pedir por indicações de talentos da <faculdade>?
+
+O objetivo é capacitar os estagiários durante o período de seis meses pra que, ao final do programa, passem a integrar a equipe.
+
+Obrigado pela atenção!
+
+PS.: Caso queira saber detalhes sobre o programa, veja o anúncio da vaga em nosso blog: http://blog.tegra.me/programa-de-estagio-integrado-vagas-abertas/
+```  
