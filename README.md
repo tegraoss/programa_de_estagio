@@ -113,10 +113,10 @@ A avaliação de todas as pessoas candidatas deve ser feita sempre pelas mesmas 
 - 3: muito bom ou excelente   
 
 ### 4.1. Critérios Analisados na Primeira Fase
+- carga cultural    
 - potencial lógico  
 - potencial analítico  
 - conhecimento técnico adquirido estudando  
-- carga cultural    
 
 ### 4.2. Critérios Analisados na Segunda Fase
 - lógica  
@@ -125,3 +125,13 @@ A avaliação de todas as pessoas candidatas deve ser feita sempre pelas mesmas 
 - resolução efetiva do problema  
 - apresentação e explicação do código  
 - opinião crítica sobre assuntos de cunho social  
+
+### 4.3. Quem avança pra segunda fase?
+As N*3 pessoas com maiores notas, sendo N o número de vagas de estágio.
+
+### 4.4. Quem são as pessoas selecionadas na segunda fase?
+A decisão é tomada num bate papo entre os entrevistadores e quaisquer outros integrantes que se interessem em participar da tomada de decisão. Para tal, considera-se:
+- Personas determinadas na etapa 1  
+- Pontuação da primeira fase  
+- Pontuação da segunda fase  
+- Solução do desafio  
