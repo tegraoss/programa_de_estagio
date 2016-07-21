@@ -135,3 +135,8 @@ A decisão é tomada num bate papo entre os entrevistadores e quaisquer outros i
 - Pontuação da primeira fase  
 - Pontuação da segunda fase  
 - Solução do desafio  
+
+## 5. Feedback
+É imprescindível que as pessoas entrevistadas recebam feedback, positivo ou negativo.
+
+É encorajado que se peça feedback das pessoas entrevistadas ('você se sentiu bem na entrevista?' e 'você acha que faltou algo nesse processo seletivo?' são perguntas possíveis a serem feitas).
