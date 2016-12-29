@@ -140,3 +140,19 @@ A decisão é tomada num bate papo entre os entrevistadores e quaisquer outros i
 É imprescindível que as pessoas entrevistadas recebam feedback, positivo ou negativo.
 
 É encorajado que se peça feedback das pessoas entrevistadas ('você se sentiu bem na entrevista?' e 'você acha que faltou algo nesse processo seletivo?' são perguntas possíveis a serem feitas).
+
+## 6. Integração
+É imprescindível que os estagiários sejam muito bem recebidos e se sintam bem acolhidos. Para tanto, o primeiro dia é destinado para a integração deles com todo o time Tegra. 
+
+### 6.1 Café da manhã especial
+Café da manhã destinado para confraternizar e apresentar os novos integrantes para equipe.
+
+### 6.2 Overview da Tegra 
+Apresentar os valores e pilares da Tegra, bem como um overview dos projetos. Entregar os notebooks e o kit com brindes (camiseta, caderno, squeeze, stickers)
+
+### 6.3 Almoço de integração
+Almoço destinado para realizar a integração da equipe com os novos integrantes.
+
+### 6.4 Primeiro bate-papo de mentoria
+Os mentores deverão apresentar o plano de mentoria e orientá-los com os primeiros passos no programa de estágio (ambiente de tabalho, material de apoio para estudo, cronograma das atividades da primeira semana).
+
